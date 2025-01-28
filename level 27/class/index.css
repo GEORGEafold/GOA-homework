@@ -1,0 +1,23 @@
+.divedit{
+    width: 200px;
+    height: 200px;
+    border:solid;
+    border-radius: 10px;
+    background-color: blue;
+    border-width: 5px;
+    margin-top: 200px;
+    margin-left: 300px;
+    margin-bottom: 50px;
+}
+
+.divedit1{
+    width: 250px;
+    height: 250px;
+    border:solid;
+    border-radius: 20px;
+    background-color: red;
+    border-width: 6px;
+    margin-top: 100px;
+    margin-left: 280px;
+    margin-bottom: 40px;
+}
