@@ -1,0 +1,68 @@
+* {
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main {
+    display:flex;
+}
+
+main div {
+    width: 350px;
+    height: 550px;
+    background-color: hsl(31, 77%, 52%);
+    border-radius:20px;
+}
+
+main .sedanDIV {
+    background-color: hsl(31, 77%, 52%);
+    border-radius:20px 0 0 20px;
+}
+
+main .suvsDIV {
+    background-color: hsl(188, 100%, 22%);
+    border-radius: 0;
+}
+
+main .luxuryDIV {
+    background-color: hsl(179, 100%, 13%);
+    border-radius: 0;
+    border-radius:0 20px 20px 0;
+}
+
+main .sedanDIV img {
+    width: 70px;
+    margin-bottom: 30px;
+}
+
+main .sedanDIV h1 {
+    color: white;
+    font-size: 2.5em;
+    text-transform: uppercase;
+    font-family: "Big Shoulders", sans-serif;
+    margin-bottom: 30px;
+}
+main .suvsDIV p, main .sedanDIV p, main .luxuryDIV p {
+    width: 120px;
+    height: 55px;
+    background-color: white;
+    color: hsl(31, 77%, 52%);
+    font-size: 1.5em;
+    font-weight: bold;
+    text-transform: capitalize;
+    border-radius: 70px;
+    border: 0;
+}
+
+main .suvsDIV button, main .sedanDIV button, main .luxuryDIV button {
+    color: white;
+}

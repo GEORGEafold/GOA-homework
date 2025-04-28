@@ -1,0 +1,58 @@
+*{
+    padding: 0;
+    margin: 30px;
+    box-sizing: border-box;
+}
+
+:root {
+    --pColor: green;
+    --pSize: 1.5em;
+    --pBackground-Color: gray;
+    --pLetter-Spacing: 2px;
+    --pPadding: 15px;
+    --pDisplay: block;
+
+    --btnColor: blue;
+    --btnSize: 2em;
+    --btnBackground-Color: gray;
+    --btnLetter-Spacing: 3px;
+    --btnPadding: 15px;
+    --pDisplay: inline;
+
+
+    --h1color: red;
+    --h1Size: 3em;
+    --h1Background-Color: gray;
+    --h1Letter-Spacing: 4px;
+    --h1Padding: 15px;
+    --pDisplay: inline-block;
+}
+
+
+
+p {
+    color: var(--pColor);
+    font-size: var(--pSize);
+    padding: var(--pPadding);
+    background-color: var(--pBackground-Color);
+    letter-spacing: var(--pLetter-Spacing);
+    display: var(--pDisplay)
+}
+
+button {
+    color: var(--btnColor);
+    font-size: var(--btnSize);
+    padding: var(--btnPadding);
+    background-color: var(--btnBackground-Color);
+    letter-spacing: var(--btnLetter-Spacing);
+    display: var(--btnDisplay)
+}
+
+h1 {
+    color: var(--h1Color);
+    font-size: var(--h1Size);
+    padding: var(--h1Padding);
+    background-color: var(--h1Background-Color);
+    letter-spacing: var(--h1Letter-Spacing);
+    display: var(--h1Display)
+}

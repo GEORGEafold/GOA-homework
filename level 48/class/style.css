@@ -1,0 +1,14 @@
+body {
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 100px 4fr 100px;
+    grid-template-rows: 100px 5fr 100px;
+    gap: 2px;
+}
+
+
+header, nav, main, aside, footer {
+    background-color: lightskyblue;
+    border: 1px solid black;
+    padding: 20px;
+}

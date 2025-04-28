@@ -1,0 +1,102 @@
+.div-1 {
+    width: 200px;
+    height: 150px;
+    background-color: coral;
+    display: inline-block;
+    text-align: center;
+    font-family: cursive;
+    font-size: 2em;
+    color: white;
+    margin: 30px;
+    border: 1px solid black;
+}
+.div-2 {
+    width: 200px;
+    height: 150px;
+    background-color: coral;
+    display: inline-block;
+    text-align: center;
+    font-family: cursive;
+    font-size: 2em;
+    color: white;
+    margin: 30px;
+    border: 1px solid black;
+}
+.div-3 {
+    width: 200px;
+    height: 150px;
+    background-color: coral;
+    display: inline-block;
+    text-align: center;
+    font-family: cursive;
+    font-size: 2em;
+    color: white;
+    margin: 30px;
+    border: 1px solid black;
+}
+.button-1 {
+    width: 300px;
+    height: 215px;
+    background-color: purple;
+    color: green;
+    text-align: center;
+    font-family: cursive;
+    margin: 15px;
+    border: 1px solid black;
+    display: block;
+}
+.button-2 {
+    width: 300px;
+    height: 215px;
+    background-color: purple;
+    color: green;
+    text-align: center;
+    font-family: cursive;
+    margin: 15px;
+    border: 1px solid black;
+    display: block;
+}
+.button-3 {
+    width: 300px;
+    height: 215px;
+    background-color: purple;
+    color: green;
+    text-align: center;
+    font-family: cursive;
+    margin: 15px;
+    border: 1px solid black;
+    display: block;
+}
+.p-1 {
+    width: 300px;
+    height: 215px;
+    background-color: purple;
+    color: green;
+    text-align: center;
+    font-family: cursive;
+    margin: 15px;
+    border: 1px solid black;
+    display: inline;
+}
+.p-2 {
+    width: 300px;
+    height: 215px;
+    background-color: purple;
+    color: green;
+    text-align: center;
+    font-family: cursive;
+    margin: 15px;
+    border: 1px solid black;
+    display: inline;
+}
+.p-3 {
+    width: 300px;
+    height: 215px;
+    background-color: purple;
+    color: green;
+    text-align: center;
+    font-family: cursive;
+    margin: 15px;
+    border: 1px solid black;
+    display: inline;
+}
